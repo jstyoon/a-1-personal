@@ -1,6 +1,6 @@
 import random
 
-class Character:        # 빵틀 설계도
+class Character:
     """
     모든 캐릭터의 모체가 되는 클래스
     """
